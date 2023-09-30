@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "0883c0d0-d370-4009-acaa-7bcff5b4f935",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/Jdl9oBf.webp",
+	 "title": "fnaf map",
+	 "text": "The game begins at the entrance of an old and dilapidated amusement park. The main character has been hired as a security guard to watch over the place during the night.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/Jdcyalp.webp",
+	 "title": "fnaf map",
+	 "text": "The security office is located at the center of the park. It has the usual security cameras, doors, and lights controls. The player must keep an eye on the cameras to monitor the animatronics' movements.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/Jdcy0JI.webp",
+	 "title": "fnaf map",
+	 "text": "Spread across the park are various attractions such as a haunted house, a Ferris wheel, a carousel, and a roller coaster. These attractions serve as hiding spots for animatronics. The player must check each one regularly to ensure none of them are lurking in the shadows.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdcy5iv.webp",
+	 "title": "fnaf map",
+	 "text": "An old workshop where animatronics were once repaired and maintained. The player may have to go here to reset or fix malfunctioning animatronics, but it's a risky move as it's dark and filled with parts and tools.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcycUN.webp",
+	 "title": "fnaf map",
+	 "text": "A creepy circus tent where the most aggressive animatronics reside. The player may have to periodically check inside the tent, but it comes with a higher risk of encountering hostile animatronics.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcyYfR.webp",
+	 "title": "fnaf map",
+	 "text": "Beneath the amusement park, there's a network of dark and eerie tunnels. These tunnels serve as a shortcut for animatronics to move around. The player can use these tunnels to access different parts of the park quickly, but they must be cautious as animatronics can also use them.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
